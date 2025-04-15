@@ -34,7 +34,7 @@ test:
     - pip
 
 about:
-  home: "https://github.com/ppspps824/streamlit_avatar"
+  home: https://github.com/ppspps824/streamlit_avatar
   license: MIT
   license_family: MIT
   license_file: LICENSE
